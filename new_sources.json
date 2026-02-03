@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "name": "Farm Progress",
+      "url": "https://www.farmprogress.com/rss.xml",
+      "verticals": [
+        "Agriculture"
+      ]
+    },
+    {
+      "name": "Oilprice",
+      "url": "https://oilprice.com/rss/main",
+      "verticals": [
+        "RWA"
+      ]
+    },
+    {
+      "name": "CryptoSlate RWA",
+      "url": "https://cryptoslate.com/feed/?post_type=rwa",
+      "verticals": [
+        "RWA"
+      ]
+    },
+    {
+      "name": "CoinDesk RWA",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml&tags=real-world-assets",
+      "verticals": [
+        "RWA"
+      ]
+    },
+    {
+      "name": "Time.kz",
+      "url": "https://time.kz/rss",
+      "verticals": [
+        "Agriculture"
+      ]
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/rss/home",
+      "verticals": [
+        "Mainstream"
+      ]
+    },
+    {
+      "name": "Investing.com Commodities",
+      "url": "https://www.investing.com/rss/news_14.rss",
+      "verticals": [
+        "RWA",
+        "Agriculture"
+      ]
+    }
+  ]
+}
